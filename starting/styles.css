@@ -1,0 +1,66 @@
+section {
+    border: 2px solid gray;
+    padding: 10px;
+    display: block;
+    margin: 20px auto;
+}
+
+/*COLOR SECTION*/
+#color-section h2 {
+    position: relative;
+}
+
+#color-container {
+    display: block;
+    width: 100%;
+}
+
+.color-info {
+    display: inline-block;
+    width: 200px;
+    height: 100px;
+    text-align: center;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    min-width: 100px;
+    min-height: 100px;
+}
+
+#color1 {
+    background-color: indianred;
+}
+
+#color2 {
+    background-color: lightcoral;
+}
+
+#color3 {
+    background-color: salmon;
+}
+
+#color4 {
+    background-color: darksalmon;
+}
+
+#color5 {
+    background-color: lightsalmon;
+}
+
+#color6 {
+    background-color: crimson;
+}
+
+#color7 {
+    background-color: red;
+}
+
+#color8 {
+    background-color: firebrick;
+}
+
+#color9 {
+    background-color: darkred;
+    color:white;
+}
+
+/*FONT SECTION*/
