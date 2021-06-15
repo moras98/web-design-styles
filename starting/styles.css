@@ -1,8 +1,25 @@
+body {
+    background-color: lightsalmon;
+}
+
+
 section {
     border: 2px solid gray;
     padding: 10px;
     display: block;
     margin: 20px auto;
+    background-color: white;
+}
+
+h1 {
+    font-family: 'Staatliches';
+    font-size: 26px;
+}
+
+h2 {
+    font-family: 'Inter';
+    font-size: 18px;
+    font-weight: 600;
 }
 
 /*COLOR SECTION*/
@@ -101,4 +118,25 @@ section {
 
 #sourcecodepro-font {
     font-family: 'Source Code Pro', monospace;
+}
+
+/*TEXT STYLE SECTION*/
+
+.txt-container {
+    display: block;
+    font-family: 'Inter';
+    font-weight: 400;
+    font-size: 14px;
+    margin: 10px 10px;
+}
+
+.txt-container h1 {
+    font-family: 'Staatliches';
+    font-size: 26px;
+}
+
+.txt-container h2 {
+    font-family: 'Inter';
+    font-size: 18px;
+    font-weight: 600;
 }
